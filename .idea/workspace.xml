@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9c091d5c-e8a0-4326-b593-aca5f08bd71c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_preprocessing.py" afterPath="$PROJECT_DIR$/data_preprocessing.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emner_v3.py" afterPath="$PROJECT_DIR$/emner_v3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gensim_pyLDAvis.py" afterPath="$PROJECT_DIR$/gensim_pyLDAvis.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kw_recommendations.py" afterPath="$PROJECT_DIR$/kw_recommendations.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tfidf_generator.py" afterPath="$PROJECT_DIR$/tfidf_generator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wrapper.py" afterPath="$PROJECT_DIR$/wrapper.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="wrapper.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wrapper.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wrapper.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -41,8 +36,8 @@
       <file leaf-file-name="data_preprocessing.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_preprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1320">
-              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="255">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tfidf_generator.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tfidf_generator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tfidf_generator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -107,12 +102,12 @@
         <option value="$PROJECT_DIR$/wordcount.py" />
         <option value="$PROJECT_DIR$/emner_V2.py" />
         <option value="$PROJECT_DIR$/loader.py" />
-        <option value="$PROJECT_DIR$/data_preprocessing.py" />
         <option value="$PROJECT_DIR$/gensim_pyLDAvis.py" />
         <option value="$PROJECT_DIR$/kw_recommendations.py" />
         <option value="$PROJECT_DIR$/tfidf_generator.py" />
         <option value="$PROJECT_DIR$/emner_v3.py" />
         <option value="$PROJECT_DIR$/wrapper.py" />
+        <option value="$PROJECT_DIR$/data_preprocessing.py" />
       </list>
     </option>
   </component>
@@ -335,10 +330,10 @@
     <entry file="file://$PROJECT_DIR$/wordcloud_generator.py" />
     <entry file="file://$PROJECT_DIR$/loader.py" />
     <entry file="file://$PROJECT_DIR$/wordcount.py" />
-    <entry file="file://$PROJECT_DIR$/ReadME.md">
+    <entry file="file://$PROJECT_DIR$/wrapper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -353,8 +348,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1320">
-          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="255">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -375,18 +370,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tfidf_generator.py">
+    <entry file="file://$PROJECT_DIR$/ReadME.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wrapper.py">
+    <entry file="file://$PROJECT_DIR$/tfidf_generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state relative-caret-position="60">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding />
         </state>
       </provider>

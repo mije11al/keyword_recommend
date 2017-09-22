@@ -23,7 +23,6 @@ import pickle
 
 
 
-# convert any string to unicode.
 def any2unicode(string, encoding='latin-1', errors='strict'):
     '''
     :param string: any string
