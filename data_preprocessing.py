@@ -2,7 +2,7 @@
 """
 @Michael Jensen
 
-updated 11-09-2017
+updated 22-09-2017
 
 This script iterates over data in your directory, and outputs a series of files that are needed to create
 a pyldavis visualization that is compatible with a tfidf model.

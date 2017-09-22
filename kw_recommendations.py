@@ -2,7 +2,7 @@
 """
 @Michael Jensen
 
-updated 05-09-2017
+updated 22-09-2017
 
 This script uses a gensim tfidf model to generate keyword recommendations.
 

@@ -2,7 +2,8 @@
 
 """
 @Michael Jensen
-updated 07-09-2017
+
+updated 22-09-2017
 
 This script is a wrapper, which sorts a vector of texts into topics, based on seed keywords.
 It returns a series of .xlsx files with texts sorted into topics, a visualization describing topics in terms of size,

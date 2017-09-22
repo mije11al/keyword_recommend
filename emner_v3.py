@@ -1,8 +1,8 @@
 # -*- coding: latin-1 -*-
 """
-spyder editor
+@Michael Jensen
 
-updated 14-03-2017
+updated 22-09-2017
 
 This script sorts strings into .xlsx files named after topics defined in a doc called
 'topic_index.xlsx'
@@ -19,7 +19,7 @@ import sys
 
 reload(sys)
 sys.setdefaultencoding('latin-1')
-# ==============================================================================
+
 
 def splitter(df):
     '''

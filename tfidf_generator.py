@@ -1,7 +1,8 @@
 # -*- coding: latin-1 -*-
 """
 @Michael Jensen
-updated 07-09-2017
+
+updated 22-09-2017
 
 This script iterates over a series of .xlsx files, and creates a tfidf model
 
