@@ -2,7 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c091d5c-e8a0-4326-b593-aca5f08bd71c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_preprocessing.py" afterPath="$PROJECT_DIR$/data_preprocessing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_for_visualization/doc_topic_dists.xlsx" afterPath="$PROJECT_DIR$/data_for_visualization/doc_topic_dists.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/aeldre.xlsx" afterPath="$PROJECT_DIR$/output/aeldre.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/andre_trossamfund.xlsx" afterPath="$PROJECT_DIR$/output/andre_trossamfund.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/arbejdsloeshed.xlsx" afterPath="$PROJECT_DIR$/output/arbejdsloeshed.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/boernepasning.xlsx" afterPath="$PROJECT_DIR$/output/boernepasning.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/byggeri_bolig.xlsx" afterPath="$PROJECT_DIR$/output/byggeri_bolig.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/danskhed_debat.xlsx" afterPath="$PROJECT_DIR$/output/danskhed_debat.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/diskrimination.xlsx" afterPath="$PROJECT_DIR$/output/diskrimination.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/eu.xlsx" afterPath="$PROJECT_DIR$/output/eu.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/faengsler.xlsx" afterPath="$PROJECT_DIR$/output/faengsler.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/familieliv.xlsx" afterPath="$PROJECT_DIR$/output/familieliv.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/feminisme.xlsx" afterPath="$PROJECT_DIR$/output/feminisme.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/fertilitet.xlsx" afterPath="$PROJECT_DIR$/output/fertilitet.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/film_tv.xlsx" afterPath="$PROJECT_DIR$/output/film_tv.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/finanslov.xlsx" afterPath="$PROJECT_DIR$/output/finanslov.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/finanssektor.xlsx" afterPath="$PROJECT_DIR$/output/finanssektor.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/flygtninge.xlsx" afterPath="$PROJECT_DIR$/output/flygtninge.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/foedevarer.xlsx" afterPath="$PROJECT_DIR$/output/foedevarer.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/folkekirken_kristendom.xlsx" afterPath="$PROJECT_DIR$/output/folkekirken_kristendom.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/folkeskole.xlsx" afterPath="$PROJECT_DIR$/output/folkeskole.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/forskning.xlsx" afterPath="$PROJECT_DIR$/output/forskning.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/forsvaret.xlsx" afterPath="$PROJECT_DIR$/output/forsvaret.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/fysiske_sygdomme.xlsx" afterPath="$PROJECT_DIR$/output/fysiske_sygdomme.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/handelspolitik_udenrigsoekonomi.xlsx" afterPath="$PROJECT_DIR$/output/handelspolitik_udenrigsoekonomi.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/handicap.xlsx" afterPath="$PROJECT_DIR$/output/handicap.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/hospitalsvaesen.xlsx" afterPath="$PROJECT_DIR$/output/hospitalsvaesen.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/integration.xlsx" afterPath="$PROJECT_DIR$/output/integration.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/international_politik.xlsx" afterPath="$PROJECT_DIR$/output/international_politik.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/islam.xlsx" afterPath="$PROJECT_DIR$/output/islam.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/kaeledyr.xlsx" afterPath="$PROJECT_DIR$/output/kaeledyr.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/koens_og_seksualnormer.xlsx" afterPath="$PROJECT_DIR$/output/koens_og_seksualnormer.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/kommuner_regioner.xlsx" afterPath="$PROJECT_DIR$/output/kommuner_regioner.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/kongehuset.xlsx" afterPath="$PROJECT_DIR$/output/kongehuset.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/kontanthjaelp_dagpenge.xlsx" afterPath="$PROJECT_DIR$/output/kontanthjaelp_dagpenge.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/landbrug.xlsx" afterPath="$PROJECT_DIR$/output/landbrug.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/livsstil.xlsx" afterPath="$PROJECT_DIR$/output/livsstil.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/medicin_bivirkninger.xlsx" afterPath="$PROJECT_DIR$/output/medicin_bivirkninger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/medier_sprog.xlsx" afterPath="$PROJECT_DIR$/output/medier_sprog.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/miljoe.xlsx" afterPath="$PROJECT_DIR$/output/miljoe.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/musik.xlsx" afterPath="$PROJECT_DIR$/output/musik.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/pension.xlsx" afterPath="$PROJECT_DIR$/output/pension.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/politi_kriminalitet.xlsx" afterPath="$PROJECT_DIR$/output/politi_kriminalitet.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/politikerliv.xlsx" afterPath="$PROJECT_DIR$/output/politikerliv.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/politisk_ideologi.xlsx" afterPath="$PROJECT_DIR$/output/politisk_ideologi.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/politisk_samarbejde.xlsx" afterPath="$PROJECT_DIR$/output/politisk_samarbejde.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/privatoekonomi.xlsx" afterPath="$PROJECT_DIR$/output/privatoekonomi.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/psykiske_lidelser.xlsx" afterPath="$PROJECT_DIR$/output/psykiske_lidelser.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/retspolitik_justitsvaesen.xlsx" afterPath="$PROJECT_DIR$/output/retspolitik_justitsvaesen.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/skatter_afgifter.xlsx" afterPath="$PROJECT_DIR$/output/skatter_afgifter.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/socialt_udsatte.xlsx" afterPath="$PROJECT_DIR$/output/socialt_udsatte.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/sport.xlsx" afterPath="$PROJECT_DIR$/output/sport.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/teknologi_hverdag.xlsx" afterPath="$PROJECT_DIR$/output/teknologi_hverdag.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/teknologisk_udvikling.xlsx" afterPath="$PROJECT_DIR$/output/teknologisk_udvikling.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/terror.xlsx" afterPath="$PROJECT_DIR$/output/terror.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/transport.xlsx" afterPath="$PROJECT_DIR$/output/transport.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/trepartsforhandlinger.xlsx" afterPath="$PROJECT_DIR$/output/trepartsforhandlinger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/udviklingspolitik.xlsx" afterPath="$PROJECT_DIR$/output/udviklingspolitik.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/vaekst_erhverv.xlsx" afterPath="$PROJECT_DIR$/output/vaekst_erhverv.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/valg_folkeafstemninger.xlsx" afterPath="$PROJECT_DIR$/output/valg_folkeafstemninger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/videregaaende_uddannelser.xlsx" afterPath="$PROJECT_DIR$/output/videregaaende_uddannelser.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/yderomraader.xlsx" afterPath="$PROJECT_DIR$/output/yderomraader.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gensim_pyLDAvis.py" afterPath="$PROJECT_DIR$/gensim_pyLDAvis.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +74,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="wrapper.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="wrapper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wrapper.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -27,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/emner_v3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -46,8 +107,8 @@
       <file leaf-file-name="gensim_pyLDAvis.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gensim_pyLDAvis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="1185">
+              <caret line="94" column="30" lean-forward="false" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -73,7 +134,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tfidf_generator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tfidf_generator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tfidf_generator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -102,12 +163,12 @@
         <option value="$PROJECT_DIR$/wordcount.py" />
         <option value="$PROJECT_DIR$/emner_V2.py" />
         <option value="$PROJECT_DIR$/loader.py" />
-        <option value="$PROJECT_DIR$/gensim_pyLDAvis.py" />
         <option value="$PROJECT_DIR$/kw_recommendations.py" />
         <option value="$PROJECT_DIR$/tfidf_generator.py" />
         <option value="$PROJECT_DIR$/emner_v3.py" />
         <option value="$PROJECT_DIR$/wrapper.py" />
         <option value="$PROJECT_DIR$/data_preprocessing.py" />
+        <option value="$PROJECT_DIR$/gensim_pyLDAvis.py" />
       </list>
     </option>
   </component>
@@ -231,7 +292,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32724383" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32724383" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09936909" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -330,18 +391,10 @@
     <entry file="file://$PROJECT_DIR$/wordcloud_generator.py" />
     <entry file="file://$PROJECT_DIR$/loader.py" />
     <entry file="file://$PROJECT_DIR$/wordcount.py" />
-    <entry file="file://$PROJECT_DIR$/wrapper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/emner_v3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -350,14 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gensim_pyLDAvis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -382,6 +427,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gensim_pyLDAvis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="94" column="30" lean-forward="false" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>

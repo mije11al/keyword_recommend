@@ -92,6 +92,6 @@ def runner(path):
     tfidf = gensim.models.TfidfModel.load(('model/tfidf.model'))
     dense_tfidf = create_dense_tfidf(corpus, tfidf)
     data = create_data(dense_tfidf)
-    pyLDAvis.save_html(data, 'data_for_visualization/model_visual.html')
+    pyLDAvis.save_html(data, 'model_visual.html')
     print "Pyldavis has been generated and saved to HTML file"
 
